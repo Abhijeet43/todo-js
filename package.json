@@ -2,9 +2,7 @@
   "name": "todo-app",
   "version": "1.0.0",
   "main": "script.js",
-  "scripts": {
-    "build": "tailwindcss -i ./src/input.css -o ./src/output.css"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
