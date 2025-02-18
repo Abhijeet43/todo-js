@@ -60,6 +60,7 @@ function handleSubmit(e) {
 
   if (!todoText) {
     showError("Please enter a todo");
+    return;
   }
 
   if (editMode) {
